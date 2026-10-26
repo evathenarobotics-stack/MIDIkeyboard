@@ -1,7 +1,11 @@
 # MIDIkeyboard
 Created an MIDI keyboard through KiCad using a PCB. 
-This project took a lot of time and effort to complete since I had little knowledge regarding PCBs and schematics. I started with drawing a schematic of my components using a Waveshare ESP32-S3-Zero microcontroller and other components.
-Later, I turned the schematic into a PCB and added keys to the board and wires the components together to finish it. 
+
+This project took a lot of time and effort to complete since I had little knowledge regarding PCBs and schematics.
+
+I started with drawing a schematic of my components using a Waveshare ESP32-S3-Zero microcontroller and other components.
+
+Later, I turned the schematic into a PCB and added keys to the board and wires the components together to finish it.
 
 It was a very tough process, but I learned a lot about PCB.
 
